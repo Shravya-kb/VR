@@ -55,7 +55,8 @@ This is a 3D survival game built using Three.js, featuring an immersive open-wor
 
 1. Clone the repository
 ```bash
-git clone https://github.com/notaprocoder69/Slash-3D-Survival-Game.git
+git clone https://https://github.com/Shravya-kb/VR/edit/main/ThreeJS.git
+
 ```
 
 2. Navigate to project directory
